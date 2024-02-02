@@ -1,0 +1,6 @@
+*.o
+*.out
+.vscode
+build
+fmnist-test.csv
+fmnist-train.csv
